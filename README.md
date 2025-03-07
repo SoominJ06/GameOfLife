@@ -21,6 +21,10 @@ This project is a variation of Conway's Game of Life, a well-known cellular auto
   - Reproduction: Omnivores can reproduce if they have at least 1 other neighbouring omnivore, at least three empty surrounidng cells, and at least 1 adjacent cell containing its food source (plants, herbivores, or carnivores).
 
 
+## Demo Video
+https://github.com/user-attachments/assets/27be5f2b-325a-4e19-83e5-dad2732b6869
+
+
 ## Usage
 To run the simulation:
 1. Clone this repository to your local machine.
